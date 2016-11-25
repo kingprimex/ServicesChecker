@@ -1,1 +1,1 @@
-Crearea unui script ce permite uptime-ul unor servicii de linux si trimiterea de mail catre o adresa cunoscuta.
+This is a script that checks the uptime of some known linux services( Mysql, Apache, Exim) and the results are sent via email to a known address.
